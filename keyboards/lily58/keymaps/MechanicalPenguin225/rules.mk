@@ -1,3 +1,5 @@
+BOOTLOADER = qmk-dfu
+
 LTO_ENABLE = yes            # Link Time Optimization enabled
 BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = no        # Mouse keys
